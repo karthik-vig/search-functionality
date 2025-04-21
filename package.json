@@ -1,0 +1,14 @@
+{
+  "name": "search-functionality",
+  "version": "1.0.0",
+  "description": "implements search functionality where the best test from an array is retreived for a given search text",
+  "main": "main.js",
+  "author": "Karthik Vignesh Sundar",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node ./dist/main.js"
+  },
+  "dependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
